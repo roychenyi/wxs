@@ -1,1 +1,5 @@
-test.9347.xyz
+# 文学社平台
+
+这是一个新的构建项目，使用maven构建
+三层结构管理，使用spring 4.3,JPA,springMVC
+
